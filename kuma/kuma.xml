@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<TsoImportInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Effect Name="TAToonshade_050.cgfx" />
+  <Textures Name="skin" File="skin.bmp" BytesPerPixel="4" Width="16" Height="16" />
+  <Textures Name="Sailor_COL" File="Y:\kuma\Sailor_COL.bmp" BytesPerPixel="4" Width="256" Height="16" />
+  <Textures Name="black" File="black.bmp" BytesPerPixel="4" Width="16" Height="16" />
+  <Textures Name="brown1" File="brown1.bmp" BytesPerPixel="4" Width="16" Height="16" />
+  <Textures Name="pink" File="pink.bmp" BytesPerPixel="4" Width="16" Height="16" />
+  <Textures Name="white" File="white.bmp" BytesPerPixel="4" Width="16" Height="16" />
+  <Textures Name="brown2" File="brown2.bmp" BytesPerPixel="4" Width="16" Height="16" />
+  <Materials Name="hana1" File="cgfxShader" />
+  <Materials Name="hana2" File="cgfxShader" />
+  <Materials Name="me" File="cgfxShader" />
+  <Materials Name="kuti" File="cgfxShader" />
+  <Materials Name="naka" File="cgfxShader" />
+  <Materials Name="atama" File="cgfxShader" />
+  <Materials Name="karada" File="cgfxShader" />
+  <Materials Name="tuki" File="cgfxShader" />
+  <Materials Name="tume" File="cgfxShader" />
+  <Materials Name="ude" File="cgfxShader" />
+  <Materials Name="mayu" File="cgfxShader" />
+</TsoImportInfo>
